@@ -23,7 +23,15 @@ body{
     color: white;
     height: 25px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
 }
+
+.cmc:hover{
+
+    color: white;
+}
+
+
 
 .intro{
 
@@ -101,12 +109,18 @@ body{
     padding-left: 20px;
 }
 
+.social-media:hover{
+
+    color: white;
+    text-decoration: none;
+}
+
 @media (max-width: 1028px) {
 
     .carousel-item img{
 
         width:100%;
-        height: 295px;
+        height: 100%;
         border-radius: 10px;
         border: 1px solid rgba(255, 255, 255, 0.8);
         
@@ -118,12 +132,13 @@ body{
         border-radius: 10px;
         border: 1px solid rgba(255, 255, 255, 0.8);
         box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
-        height: 295px;
+        height: 100%;
         width: 100%;
         text-align: center;
         display: block;
         margin-left: auto;
         margin-right: auto;
+        margin-top: 10px;
     }
 
     .glass img{
@@ -136,7 +151,7 @@ body{
 
         color: white;
         font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        font-size: 15px;
+        font-size: 20px;
         margin-top: 5%;
     }
 
@@ -144,7 +159,7 @@ body{
 
         color: white;
         font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        font-size: 15px;
+        font-size: 20px;
         margin-top: 2.5%;
     }
 
@@ -152,7 +167,7 @@ body{
 
         color: white;
         font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        font-size: 10px;
+        font-size: 20px;
         margin-top: 2.5%;
     
         
