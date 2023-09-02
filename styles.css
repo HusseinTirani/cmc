@@ -1,0 +1,178 @@
+
+body{
+
+    background-color: #279EFF;
+}
+
+
+
+
+
+.navbar-2 {
+
+    background-color: #279EFF;
+    
+
+
+}
+
+
+
+.title a{
+
+    color: white;
+    height: 25px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.intro{
+
+    background-color: #279EFF;
+    
+    
+    
+}
+
+.carousel-item img{
+
+    width:100%;
+    height: 590px;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    
+}
+
+.coming-soon{
+
+    background-color:#279EFF;
+}
+
+.glass{
+
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    height: 590px;
+    width: 50%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.glass img{
+
+    width:100px;
+    margin-top: 20%;
+}
+.our-website{
+
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    margin-top: 20%;
+}
+
+.glass h1{
+
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
+    margin-top: 10%;
+}
+
+.advise{
+
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    margin-top: 10%;
+
+    
+
+
+}
+
+.social-media{
+
+    color: black;
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+@media (max-width: 1028px) {
+
+    .carousel-item img{
+
+        width:100%;
+        height: 295px;
+        border-radius: 10px;
+        border: 1px solid rgba(255, 255, 255, 0.8);
+        
+    }
+
+    .glass{
+
+        background-color: rgba(255, 255, 255, 0.4);
+        border-radius: 10px;
+        border: 1px solid rgba(255, 255, 255, 0.8);
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+        height: 295px;
+        width: 100%;
+        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .glass img{
+
+        width:65px;
+        margin-top: 5%;
+    }
+
+    .our-website{
+
+        color: white;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 15px;
+        margin-top: 5%;
+    }
+
+    .glass h1{
+
+        color: white;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 15px;
+        margin-top: 2.5%;
+    }
+
+    .advise{
+
+        color: white;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 10px;
+        margin-top: 2.5%;
+    
+        
+    
+    
+    }
+    .social-media{
+
+        color: black;
+        font-size: 15px;
+        padding-left: 10px;
+    }
+
+    body{
+
+        background-color: #279EFF;
+    }
+    
+
+    
+
+
+}
