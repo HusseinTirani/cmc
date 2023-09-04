@@ -40,13 +40,14 @@ body{
 .icon-bar {
 
     position: fixed;
-    float: right;
+    float: top;
     top: 50%;
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
     padding-bottom: 2%;
-    margin-left: 96.3%;
+    right: 0%;
+    
     
     
   }
@@ -117,19 +118,9 @@ body{
     
     }
 
-    .icon-bar {
+    
 
-        position: fixed;
-        float: right;
-        top: 50%;
-        -webkit-transform: translateY(-50%);
-        -ms-transform: translateY(-50%);
-        transform: translateY(-50%);
-        padding-bottom: 2%;
-        margin-left: 90%;
-        
-        
-      }
+    
     
 
 
