@@ -1,194 +1,63 @@
-
 body{
 
-    background-color: #279EFF;
-}
-
-
-
-
-
-.navbar-2 {
-
-    background-color: #279EFF;
-    
-
-
-}
-
-
-
-.title a{
-
-    color: white;
-    height: 25px;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    
-}
-
-.cmc:hover{
-
-    color: white;
-}
-
-
-
-.intro{
-
-    background-color: #279EFF;
-    
+    background-image: url(images/cover.jpeg);
+    background-size: cover;
+    background-position: top top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     
     
 }
 
-.carousel-item img{
+.nav-logo{
 
-    width:100%;
-    height: 590px;
-    border-radius: 10px;
-    border: 1px solid rgba(255, 255, 255, 0.8);
-    
+    background-color: #00FFAB;
 }
 
-.coming-soon{
+.english{
 
-    background-color:#279EFF;
-}
-
-.glass{
-
-    background-color: rgba(255, 255, 255, 0.4);
-    border-radius: 10px;
-    border: 1px solid rgba(255, 255, 255, 0.8);
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
-    height: 590px;
-    width: 50%;
     text-align: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 15%;
+    padding-top: 15%;
+    font-style: italic;
 }
 
-.glass img{
+.arabic{
 
-    width:100px;
-    margin-top: 20%;
-}
-.our-website{
-
-    color: white;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 25px;
-    margin-top: 20%;
-}
-
-.glass h1{
-
-    color: white;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 35px;
-    margin-top: 10%;
-}
-
-.advise{
-
-    color: white;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 20px;
-    margin-top: 10%;
-
-    
+    text-align: center;
+    margin-left: 15%;
+    padding-top: 2%;
+    font-style: italic;
 
 
-}
-
-.social-media{
-
-    color: black;
-    font-size: 20px;
-    padding-left: 20px;
-}
-
-.social-media:hover{
-
-    color: white;
-    text-decoration: none;
 }
 
 @media (max-width: 1028px) {
 
-    .carousel-item img{
+    .english{
 
-        width:100%;
-        height: 590px;
-        border-radius: 10px;
-        border: 1px solid rgba(255, 255, 255, 0.8);
-        
-    }
-
-    .glass{
-
-        background-color: rgba(255, 255, 255, 0.4);
-        border-radius: 10px;
-        border: 1px solid rgba(255, 255, 255, 0.8);
-        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
-        height: 100%;
-        width: 100%;
         text-align: center;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        margin-top: 10px;
-    }
-
-    .glass img{
-
-        width:65px;
-        margin-top: 5%;
-        padding-bottom: 20px;
-    }
-
-    .our-website{
 
         color: white;
-        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        font-size: 20px;
-        margin-top: 5%;
-    }
-
-    .glass h1{
-
-        color: white;
-        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        font-size: 20px;
-        margin-top: 2.5%;
-    }
-
-    .advise{
-
-        color: white;
-        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        font-size: 20px;
-        margin-top: 2.5%;
-    
+        font-weight: bold;
         
+        padding-top: 75%;
+        font-style: italic;
+    }
+    
+    .arabic{
+    
+        text-align: center;
+        color: white;
+
+        font-weight: bold;
+       
+        padding-top: 2%;
+        font-style: italic;
     
     
     }
-    .social-media{
-
-        color: black;
-        font-size: 15px;
-        padding-left: 10px;
-    }
-
-    body{
-
-        background-color: #279EFF;
-    }
-    
-
-    
 
 
 }
+
