@@ -14,36 +14,40 @@ body{
 
 .nav-logo{
 
-    background-color: #00FFAB;
+    background-color: #68E0DF;
+   
+  
 }
 
-.english{
+.coming-soon{
 
-    text-align: center;
-    margin-left: 15%;
-    padding-top: 15%;
-    font-style: italic;
+  position: absolute;
+  top: 50%;
+  transform: translate(200%, -50%);
+  padding: 10px;
+  background-color: #68E0DF;
+  border-radius: 15px;
+  color: white;
+  
+    
 }
 
-.arabic{
-
-    text-align: center;
-    margin-left: 15%;
-    padding-top: 2%;
-    font-style: italic;
 
 
-}
+
 
 
 
 .icon-bar {
     position: fixed;
-    top: 50%;
+    top: 40%;
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
     right: 0%;
+    margin-right: 10px;
+    width: 50px;
+    
   }
 
   
@@ -55,7 +59,9 @@ body{
     padding: 16px;
     transition: all 0.3s ease;
     color: white;
-    font-size: 30px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    border-radius: 16px;
     
   }
   
@@ -65,22 +71,22 @@ body{
   }
   
   .facebook {
-    background: #00FFAB;
+    background: #68E0DF;
     color: white;
   }
   
   .tiktok {
-    background: #00FFAB;
+    background: #68E0DF;
     color: white;
   }
   
   .instagram {
-    background: #00FFAB;
+    background: #68E0DF;
     color: white;
   }
   
   .whatsapp {
-    background: #00FFAB;
+    background: #68E0DF;
     color: white;
   }
   
@@ -91,36 +97,31 @@ body{
     
     
 
-    .english{
-
-        text-align: center;
-
-        color: white;
-        font-weight: bold;
-        
-        padding-top: 75%;
-        font-style: italic;
-    }
-    
-    .arabic{
-    
-        text-align: center;
-        color: white;
-
-        font-weight: bold;
-       
-        padding-top: 2%;
-        font-style: italic;
-    
-    
-    }
+   
 
     .icon-bar {
-        position: fixed;
-        top: 50%;
+        left: 0%;
+        top: 40%;
         -webkit-transform: translateY(-50%);
         -ms-transform: translateY(-50%);
-        transform: translateY(-50%);     
+        transform: translateY(-50%);   
+        margin-left: 10px;
+        width: 50px;  
+      }
+
+      .coming-soon{
+
+        
+        left: 0%;
+        top: 80%;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+        background-color: #68E0DF;
+        border-radius: 15px;
+        color: white;
+        
+          
       }
 
     
@@ -134,7 +135,8 @@ body{
         padding: 16px;
         transition: all 0.3s ease;
         color: white;
-        font-size: 18px;
+        font-size: 15px;
+        
         
       }
       
@@ -144,22 +146,22 @@ body{
       }
       
       .facebook {
-        background: #00FFAB;
+        background: #68E0DF;
         color: white;
       }
       
       .tiktok {
-        background: #00FFAB;
+        background: #68E0DF;
         color: white;
       }
       
       .instagram {
-        background: #00FFAB;
+        background: #68E0DF;
         color: white;
       }
       
       .whatsapp {
-        background: #00FFAB;
+        background: #68E0DF;
         color: white;
       }
       
