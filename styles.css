@@ -144,7 +144,7 @@ color: gray;
 
 .about-us{
 
-  padding-bottom: 1%;
+  padding-bottom: 2%;
 }
 
 .about img{
@@ -195,7 +195,7 @@ color: gray;
   padding-left: 5%;
   padding-right: 5%;
   font-weight: bold;
-  font-family: cursive;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin-top: 5%;
   
 }
