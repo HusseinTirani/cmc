@@ -37,7 +37,7 @@ margin-left: 10px;
   letter-spacing: 2px;
   font-weight: 400;
   transition: 0.6s;
-  font-family: cursive;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .nav-item a:hover{
@@ -161,7 +161,7 @@ color: gray;
 .about-def h1{
 
   padding-top: 20%;
-  font-family: cursive;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .dashes{
@@ -172,7 +172,7 @@ color: gray;
 .about-def h4{
 
   padding-top: 5%;
-  font-family: cursive;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .about-def p{
@@ -180,7 +180,7 @@ color: gray;
   
   font-size: 18px;
   padding-top: 5%;
-  font-family: cursive;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .know{
@@ -219,7 +219,7 @@ color: gray;
 .our-services h1 {
 
   
-  font-family: cursive;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
 }
 
@@ -235,7 +235,7 @@ color: gray;
   padding-left: 5%;
   padding-right: 5%;
   font-weight: bold;
-  font-family: cursive;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   
   
  
@@ -465,7 +465,7 @@ footer {
   background-color: #68E0DF;
   color: #fff;
   padding: 20px;
-  font-family: cursive;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 
   
 }
@@ -514,7 +514,7 @@ footer {
   font-size: 24px;
   
   text-align: center;
-  font-family: cursive;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 
